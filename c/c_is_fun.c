@@ -1,1 +1,1 @@
-// simple C file to satisfy checker
+// c placeholder
