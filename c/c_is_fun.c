@@ -1,1 +1,1 @@
-// c placeholder
+// c placeholder: simple program for checker
